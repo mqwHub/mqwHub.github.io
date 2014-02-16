@@ -1,4 +1,6 @@
-LICHEN's blog
+LICHEN's BLOG
+===========================================
+
 一个基于jekyll的blog的目录结构如下所示：
 root
  | - articles.yml #文章配置
