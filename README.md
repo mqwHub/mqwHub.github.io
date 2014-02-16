@@ -2,6 +2,11 @@ LICHEN'S BLOG
 ------------------------------------------
 
 ### 目录结构
-    发生大幅
-    fsdf
-    防撒旦法
+        | - _layouts
+            |- default.html
+            |- post.html
+        | - _posts
+        | - _sites
+        | - css
+        | - _config.yml
+        | - index.html
